@@ -1,0 +1,19 @@
+segment,month_ahead,forecast
+Overall,1,68123.0
+Overall,2,87622.9
+Overall,3,69508.99
+Furniture,1,13819.84
+Furniture,2,30017.898
+Furniture,3,32281.055
+Technology,1,23528.5
+Technology,2,26993.03
+Technology,3,22709.914
+Office Supplies,1,24381.129
+Office Supplies,2,26712.586
+Office Supplies,3,28039.69
+West,1,25107.338
+West,2,26206.465
+West,3,30099.725
+East,1,17810.365
+East,2,28450.064
+East,3,29654.225
